@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 受持七佛名號所生功德經
+#+DATE: 2015-08-30 20:07:37.605408
+#+PROPERTY: JUAN 0
